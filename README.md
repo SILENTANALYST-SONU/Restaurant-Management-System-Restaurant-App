@@ -1,1 +1,1 @@
-# Restaurant-Management-System-Resturant-App-
+# Restaurant-Management-System-Restaurant-App-
